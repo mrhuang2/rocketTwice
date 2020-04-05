@@ -1,0 +1,16 @@
+D:\ygwork\rocketmq-all-4.3.0-source-release\rocketmq-all-4.3.0\client\src\test\java\org\apache\rocketmq\client\impl\consumer\RebalancePushImplTest.java
+D:\ygwork\rocketmq-all-4.3.0-source-release\rocketmq-all-4.3.0\client\src\test\java\org\apache\rocketmq\client\impl\consumer\DefaultMQPushConsumerImplTest.java
+D:\ygwork\rocketmq-all-4.3.0-source-release\rocketmq-all-4.3.0\client\src\test\java\org\apache\rocketmq\client\consumer\store\LocalFileOffsetStoreTest.java
+D:\ygwork\rocketmq-all-4.3.0-source-release\rocketmq-all-4.3.0\client\src\test\java\org\apache\rocketmq\client\latency\LatencyFaultToleranceImplTest.java
+D:\ygwork\rocketmq-all-4.3.0-source-release\rocketmq-all-4.3.0\client\src\test\java\org\apache\rocketmq\client\common\ThreadLocalIndexTest.java
+D:\ygwork\rocketmq-all-4.3.0-source-release\rocketmq-all-4.3.0\client\src\test\java\org\apache\rocketmq\client\impl\MQClientAPIImplTest.java
+D:\ygwork\rocketmq-all-4.3.0-source-release\rocketmq-all-4.3.0\client\src\test\java\org\apache\rocketmq\client\consumer\DefaultMQPullConsumerTest.java
+D:\ygwork\rocketmq-all-4.3.0-source-release\rocketmq-all-4.3.0\client\src\test\java\org\apache\rocketmq\client\ValidatorsTest.java
+D:\ygwork\rocketmq-all-4.3.0-source-release\rocketmq-all-4.3.0\client\src\test\java\org\apache\rocketmq\client\consumer\rebalance\AllocateMessageQueueConsitentHashTest.java
+D:\ygwork\rocketmq-all-4.3.0-source-release\rocketmq-all-4.3.0\client\src\test\java\org\apache\rocketmq\client\consumer\store\RemoteBrokerOffsetStoreTest.java
+D:\ygwork\rocketmq-all-4.3.0-source-release\rocketmq-all-4.3.0\client\src\test\java\org\apache\rocketmq\client\producer\DefaultMQProducerTest.java
+D:\ygwork\rocketmq-all-4.3.0-source-release\rocketmq-all-4.3.0\client\src\test\java\org\apache\rocketmq\client\impl\factory\MQClientInstanceTest.java
+D:\ygwork\rocketmq-all-4.3.0-source-release\rocketmq-all-4.3.0\client\src\test\java\org\apache\rocketmq\client\impl\consumer\ProcessQueueTest.java
+D:\ygwork\rocketmq-all-4.3.0-source-release\rocketmq-all-4.3.0\client\src\test\java\org\apache\rocketmq\client\consumer\rebalance\AllocateMachineRoomNearByTest.java
+D:\ygwork\rocketmq-all-4.3.0-source-release\rocketmq-all-4.3.0\client\src\test\java\org\apache\rocketmq\client\consumer\DefaultMQPushConsumerTest.java
+D:\ygwork\rocketmq-all-4.3.0-source-release\rocketmq-all-4.3.0\client\src\test\java\org\apache\rocketmq\client\producer\selector\SelectMessageQueueByHashTest.java
